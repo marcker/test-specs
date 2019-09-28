@@ -1,10 +1,10 @@
 {
   "name": "check-document",
   "version": "1.0.0",
-  "description": "",
+  "description": "Check CPF and CNPJ",
   "main": "index.js",
   "scripts": {
-    "test": "npx mocha test.js"
+    "test": "./node_modules/mocha/bin/mocha test.js"
   },
   "author": "",
   "license": "ISC",
